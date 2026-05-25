@@ -8,11 +8,11 @@
       <title>Version 1.2.0</title>
       <pubDate>Sun, 25 May 2026 12:00:00 +0300</pubDate>
       <enclosure
-        url="https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v1.2.0/QSale_1.2.0.zip"
-        sparkle:dsaSignature="MDwCHCRrtvRuQHJ3fS0Z/OQ5+oHz+JKXz8moA0+i/TcCHBRwrgG+xod9wB6UVQZgXoFR8ZMH3HDmoVCjsS0="
+        url="https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v1.2.0/QSale_Setup_1.2.0.exe"
+        sparkle:dsaSignature="MDwCHHIrNJcNPZk0Nhe/MpDu87mhvlseGNhfDVSEp2kCHB4m1it9p3ljMgM6vcP6X3pc5setN6SdhazHCn8="
         sparkle:version="1.2.0+1"
         sparkle:os="windows"
-        length="52306338"
+        length="18667909"
         type="application/octet-stream" />
     </item>
   </channel>

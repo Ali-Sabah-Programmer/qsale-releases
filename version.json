@@ -1,0 +1,13 @@
+{
+  "version": "1.5.0",
+  "release_date": "2026-05-26",
+  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v1.5.0/QSale_Setup_1.5.0.exe",
+  "file_size": 17395146,
+  "changes": [
+    "نظام تحديث مخصص جديد مع نافذة منبثقة داخل التطبيق",
+    "شريط تقدم للتنزيل مع عرض الحجم والنسبة المئوية",
+    "إزالة الاعتماد على WinSparkle - الآن JSON بسيط على GitHub",
+    "اختيار اللغة دائماً عند التثبيت (عربي/إنجليزي)",
+    "تثبيت تلقائي صامت بعد اكتمال التنزيل"
+  ]
+}

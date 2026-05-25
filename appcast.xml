@@ -5,22 +5,62 @@
     <description>QSale Updates</description>
     <language>ar</language>
     <item>
-      <title>Version 1.3.0</title>
-      <description><![CDATA[
-        <h3>تحديث QSale 1.3.0</h3>
-        <ul>
-          <li>تحسينات في الأداء</li>
-          <li>إصلاحات في نظام التحديث التلقائي</li>
-          <li>دعم الخطوط المضمنة بدون الحاجة للإنترنت</li>
-        </ul>
-      ]]></description>
-      <pubDate>Mon, 25 May 2026 22:30:00 +0300</pubDate>
+      <title>Version 1.4.0</title>
+      <description><![CDATA[<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<style>
+  html, body {
+    background-color: #ffffff !important;
+    color: #1f2937 !important;
+    margin: 0;
+    padding: 16px;
+  }
+  body {
+    font-family: 'Segoe UI', 'Tahoma', 'Arial', sans-serif;
+    direction: rtl;
+    text-align: right;
+    font-size: 14px;
+    line-height: 1.7;
+  }
+  h2, h3 {
+    color: #2563eb;
+    margin-top: 0;
+    margin-bottom: 14px;
+    font-weight: 700;
+  }
+  ul {
+    padding-right: 22px;
+    padding-left: 0;
+    margin: 0;
+  }
+  li {
+    margin-bottom: 8px;
+    color: #1f2937;
+  }
+  .fix {
+    color: #16a34a;
+    font-weight: 600;
+  }
+</style>
+</head>
+<body>
+  <h3>تحديث QSale 1.4.0</h3>
+  <ul>
+    <li><span class="fix">[إصلاح]</span> اختصار سطح المكتب يُنشَأ تلقائياً بعد كل تحديث</li>
+    <li><span class="fix">[تحسين]</span> تنسيق ملاحظات الإصدار بألوان واضحة</li>
+    <li>دعم كامل للتثبيت الصامت من المُحدِّث التلقائي</li>
+  </ul>
+</body>
+</html>]]></description>
+      <pubDate>Mon, 25 May 2026 22:50:00 +0300</pubDate>
       <enclosure
-        url="https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v1.3.0/QSale_Setup_1.3.0.exe"
-        sparkle:dsaSignature="MD0CHQCIHK0f2gC5A35EBFHuMcerumejRGmp03fxky29AhxybX6K31728mU05xDYMzrZtcq6z9r948OrNTyp"
-        sparkle:version="1.3.0+1"
+        url="https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v1.4.0/QSale_Setup_1.4.0.exe"
+        sparkle:dsaSignature="MD0CHQCFcdQmA+kQq4BtpUn0u1j8H1cTL+HQPPQItuOiAhwisxXhZ/aa9AvigyCRO4OTJwwz66W4E1hdpxFr"
+        sparkle:version="1.4.0+1"
         sparkle:os="windows"
-        length="18166496"
+        length="18166311"
         type="application/octet-stream" />
     </item>
   </channel>

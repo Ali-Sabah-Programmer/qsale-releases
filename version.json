@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2",
-  "release_date": "2026-05-30",
-  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v2.2.2/QSale_Setup_2.2.2.exe",
-  "file_size": 17471904,
+  "version": "2.3.0",
+  "release_date": "2026-06-01",
+  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v2.3.0/QSale_Setup_2.3.0.exe",
+  "file_size": 17472194,
   "changes": [
     "إصلاح عدم تصفير الخصم بعد إتمام الفاتورة",
     "إصلاح تحديث المخزون بعد الشراء",

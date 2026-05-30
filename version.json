@@ -2,7 +2,7 @@
   "version": "2.6.0",
   "release_date": "2026-06-01",
   "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v2.6.0/QSale_Setup_2.6.0.exe",
-  "file_size": 17473131,
+  "file_size": 17474911,
   "changes": [
     "إصلاح تشغيل ملف التحديث تلقائياً بعد التنزيل مع رفع صلاحيات النظام",
     "إضافة قناة تليجرام لمتابعة أخبار التحديثات في الإعدادات",

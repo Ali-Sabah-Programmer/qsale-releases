@@ -1,9 +1,12 @@
 {
-  "version": "2.0.0",
-  "release_date": "2026-05-28",
-  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v2.0.0/QSale_Setup_2.0.0.exe",
-  "file_size": 17472277,
+  "version": "2.2.0",
+  "release_date": "2026-05-30",
+  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v2.2.0/QSale_Setup_2.2.0.exe",
+  "file_size": 0,
   "changes": [
-    "الإصدار الرسمي الأول من QSale"
+    "إصلاح عدم تصفير الخصم بعد إتمام الفاتورة",
+    "إصلاح تحديث المخزون بعد الشراء",
+    "تحديث لوحة التحكم - العناصر الأكثر مبيعاً تُحدَّث عند الضغط على تحديث",
+    "إصلاح مربع الطباعة دائم الظهور بنقطة البيع"
   ]
 }

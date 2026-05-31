@@ -1,13 +1,9 @@
 {
-  "version": "3.0.0",
+  "version": "3.0.1",
   "release_date": "2026-06-01",
-  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v3.0.0/QSale_Setup_3.0.0.exe",
-  "file_size": 17479571,
+  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v3.0.1/QSale_Setup_3.0.1.exe",
+  "file_size": 17479396,
   "changes": [
-    "تحديث إصدار رئيسي - إصلاح نظام التحديث التلقائي بالكامل",
-    "تنزيل ملف التحديث مباشرة لمجلد التنزيلات مع خيار فتح المجلد ونسخ المسار وتشغيل التحديث",
-    "التحديث الإجباري لا يتطلب نسخ احتياطي ولا صلاحيات خاصة",
-    "إضافة قناة تليجرام لمتابعة التحديثات في الإعدادات",
-    "إضافة صلاحيات للاسترجاع والحذف في سجل النسخ الاحتياطية"
+    "إصلاح: الاحتفاظ بنوع الفاتورة المحدد بنقطة البيع بعد إتمام كل فاتورة"
   ]
 }

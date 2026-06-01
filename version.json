@@ -1,8 +1,8 @@
 {
   "version": "3.0.3",
   "release_date": "2026-06-01",
-  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v3.0.2/QSale_Setup_3.0.2.exe",
-  "file_size": 17478739,
+  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v3.0.3/QSale_Setup_3.0.3.exe",
+  "file_size": 17478503,
   "changes": [
     "إصلاح: الاحتفاظ بنوع الفاتورة المحدد بنقطة البيع بعد إتمام كل فاتورة"
   ]

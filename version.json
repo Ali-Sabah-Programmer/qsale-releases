@@ -2,7 +2,7 @@
   "version": "3.2.1",
   "release_date": "2026-06-27",
   "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v3.2.1/QSale_Setup_3.2.1.exe",
-  "file_size": 36355547,
+  "file_size": 36357250,
   "changes": [
     "إضافة: نظام المخازن المتعددة، وصفحة القاصة، وإدارة المصروفات بالعملتين مع تحويل تلقائي",
     "إضافة: تعديل أسعار المنتجات أثناء الشراء، وقفل سعر الصرف القديم عند تعديل حركات الدولار",

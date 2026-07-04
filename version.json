@@ -1,8 +1,8 @@
 {
-  "version": "3.3.0",
+  "version": "3.3.1",
   "release_date": "2026-07-04",
-  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v3.3.0/QSale_Setup_3.3.0.exe",
-  "file_size": 36438008,
+  "download_url": "https://github.com/Ali-Sabah-Programmer/qsale-releases/releases/download/v3.3.1/QSale_Setup_3.3.1.exe",
+  "file_size": 36443250,
   "changes": [
     "إضافة: منتجات الأوزان في المخزن مع دعم الوزن في كل مكان بالنظام",
     "إضافة: لوحة أرقام في نقطة البيع لإدخال الكميات والمبالغ بسهولة"
